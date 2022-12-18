@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\bin\Debug\net7.0\Example_05_ConditionIfElse.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\bin\Debug\net7.0\Example_05_ConditionIfElse.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\bin\Debug\net7.0\Example_05_ConditionIfElse.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\bin\Debug\net7.0\Example_05_ConditionIfElse.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\bin\Debug\net7.0\Example_05_ConditionIfElse.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\refint\Example_05_ConditionIfElse.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\Example_05_ConditionIfElse.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_05_ConditionIfElse\obj\Debug\net7.0\ref\Example_05_ConditionIfElse.dll
