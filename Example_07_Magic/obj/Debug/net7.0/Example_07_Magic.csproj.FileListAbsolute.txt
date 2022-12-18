@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\bin\Debug\net7.0\Example_07_Magic.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\bin\Debug\net7.0\Example_07_Magic.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\bin\Debug\net7.0\Example_07_Magic.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\bin\Debug\net7.0\Example_07_Magic.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\bin\Debug\net7.0\Example_07_Magic.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\refint\Example_07_Magic.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\Example_07_Magic.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_07_Magic\obj\Debug\net7.0\ref\Example_07_Magic.dll
