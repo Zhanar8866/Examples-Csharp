@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\bin\Debug\net7.0\Example_03_Sum.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\bin\Debug\net7.0\Example_03_Sum.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\bin\Debug\net7.0\Example_03_Sum.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\bin\Debug\net7.0\Example_03_Sum.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\bin\Debug\net7.0\Example_03_Sum.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\refint\Example_03_Sum.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\Example_03_Sum.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 01. C#\Examples\Example_03_Sum\obj\Debug\net7.0\ref\Example_03_Sum.dll
